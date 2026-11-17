@@ -3,7 +3,7 @@ name = "SigmaOS-arch-anti-aliasing-kernel"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "arch-anti-aliasing-kernel component"
+description = "No GitHub description is set; component scope remains unclassified."
 upstream = []
 
 [contract]
