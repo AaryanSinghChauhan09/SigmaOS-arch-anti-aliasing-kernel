@@ -2,7 +2,7 @@
 name = "arch-anti-aliasing-kernel"
 version = "0.1.0"
 edition = "2021"
-description = "SigmaOS SigmaOS-arch-anti-aliasing-kernel component - Inspired by Arch Linux and Debian"
+description = "SigmaOS SigmaOS-arch-anti-aliasing-kernel component - SigmaOS component"
 license = "MIT"
 repository = "https://github.com/AaryanSinghChauhan09/SigmaOS-arch-anti-aliasing-kernel"
 
